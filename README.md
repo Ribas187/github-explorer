@@ -34,7 +34,7 @@
 <br>
 
 <p align="center">
-  <img alt="GithubExplorer" src="demo/demo.png" width="1100px" height="450px">
+  <img alt="GithubExplorer" src="demo/demo.png" width="1100px" height="500px">
 </p>
 
 ## :rocket: Tecnologias
